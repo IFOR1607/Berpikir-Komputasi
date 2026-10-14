@@ -1,1 +1,1 @@
-# Berpikir-Komputasi
+Ini cuman untuk menyimpan file tugas Mata Kuliah Berpikir Komputasi
